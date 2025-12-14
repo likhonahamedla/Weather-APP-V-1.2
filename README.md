@@ -25,7 +25,7 @@ The project focuses on API integration and clean UI design.
 - Dart
 - Weather API
 - Material Design
-
+![image alt](https://github.com/likhonahamedla/Weather-APP-V-1.2/blob/8dd7b3c5e8e3b2fab217a53c3353aff9209c260b/screenshot/Screenshot_20251116_165855.png)
 ---
 
 ## ▶️ Run the Project
